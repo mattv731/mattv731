@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Matthew Von Gunten
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently studying full stack web development through Bloomtech(Lambda School).
-- 📫 How to reach me https://www.linkedin.com/in/matt-von-gunten-41b2161b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbQmZI1swSJKi26WuoRcW4A%3D%3D
+- 📫 How to reach me linkedin.com/in/matt-von-gunten
