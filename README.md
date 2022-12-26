@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Matthew Von Gunten
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently looking for a web dev position.
-- 📫 How to reach me www.linkedin.com/in/matt-von-gunten
+
